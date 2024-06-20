@@ -1,1 +1,1 @@
-import pysimplegui
+import PySimpleGUI
